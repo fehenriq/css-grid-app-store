@@ -1,7 +1,6 @@
 .menu__link {
   color: #333;
   padding: .5rem 1rem;
-  font-size: 20px;
 }
 
 .menu__link:hover, .menu__link.ativo {
